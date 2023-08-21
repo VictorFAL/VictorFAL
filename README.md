@@ -1,7 +1,7 @@
 ## Olá sou Victor Almeida 🤖
 
 - 💻 Formado em Engenharia de Software
-- 🌱 Estudando Python
+- 🌱 Estudando React
 
 <div>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
