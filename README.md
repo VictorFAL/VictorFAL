@@ -21,6 +21,7 @@
   <img align="center" alt="ewe-DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="ewe-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="ewe-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="ewe-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="ewe-VScode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="ewe-Slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
   <img align="center" alt="ewe-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
